@@ -30,3 +30,8 @@ This method avoids complex virtualization setup by running Kubernetes inside a D
            minikube start --driver=docker
  <img width="672" height="495" alt="Screenshot 2025-10-27 225846" src="https://github.com/user-attachments/assets/1159d80f-b3f7-4a28-8a18-84769d5277af" />
 
+           kubectl get pods
+
+ <img width="1024" height="149" alt="Screenshot 2025-10-27 230135" src="https://github.com/user-attachments/assets/76b1b9f4-1dcc-4bff-8836-7a58a54f6c0d" />
+
+
