@@ -8,8 +8,7 @@ This method avoids complex virtualization setup by running Kubernetes inside a D
 
             Minikube Installation Steps (Docker Driver)
             This method avoids complex virtualization setup by running Kubernetes inside a Docker container.
-
-#Step 2: Install Docker Engine
+#  Step 2: Install Docker Engine
          The Docker daemon will serve as the Minikube hypervisor.
          Update packages and install docker.io:
 
