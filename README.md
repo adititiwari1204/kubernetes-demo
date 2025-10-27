@@ -12,13 +12,13 @@ This method avoids complex virtualization setup by running Kubernetes inside a D
          The Docker daemon will serve as the Minikube hypervisor.
          Update packages and install docker.io:
 
- Bash
+         Bash
 
- sudo apt update
- sudo apt install -y docker.io
- Start and enable the Docker service:
+        sudo apt update
+        sudo apt install -y docker.io
+        Start and enable the Docker service:
 
-Bash
+        Bash
 
-sudo systemctl start docker
-sudo systemctl enable docker
+        sudo systemctl start docker
+        sudo systemctl enable docker
