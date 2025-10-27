@@ -22,3 +22,11 @@ This method avoids complex virtualization setup by running Kubernetes inside a D
 
         sudo systemctl start docker
         sudo systemctl enable docker
+#  Step 3: Start Minikube
+           Now that all prerequisites and permissions are correct, start the cluster using the Docker driver:
+
+           Bash
+
+           minikube start --driver=docker
+ <img width="672" height="495" alt="Screenshot 2025-10-27 225846" src="https://github.com/user-attachments/assets/1159d80f-b3f7-4a28-8a18-84769d5277af" />
+
