@@ -34,4 +34,9 @@ This method avoids complex virtualization setup by running Kubernetes inside a D
 
  <img width="1024" height="149" alt="Screenshot 2025-10-27 230135" src="https://github.com/user-attachments/assets/76b1b9f4-1dcc-4bff-8836-7a58a54f6c0d" />
 
+           kubectl get services
+
+<img width="1082" height="98" alt="Screenshot 2025-10-27 230258" src="https://github.com/user-attachments/assets/0ffd2d06-643b-446f-9e0c-0d927e172c41" />
+
+
 
